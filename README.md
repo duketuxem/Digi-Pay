@@ -2,9 +2,9 @@
 
 A React Native app to demonstrate a payment concept.
 
-## Note
+## Archiving Note
 
-This project has been archived, so the backend is no longer available.
+This project was made for academic purpose, so the backend is no longer available. It is now archived.
 
 ## Introduction
 
